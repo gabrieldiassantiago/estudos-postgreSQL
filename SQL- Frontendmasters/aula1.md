@@ -1,4 +1,4 @@
-# SQL 
+# SQL - Anotação sobre docker
 
 Docker basicamente é uma forma de que execute uma emulação de um ambiente pré-fabricado isoladamente e muito leve, como banco de dados, servidores, etc.
 
